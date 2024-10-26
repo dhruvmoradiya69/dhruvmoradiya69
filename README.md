@@ -5,6 +5,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Enthusiast;Cloud+Computing+Student;Always+Learning+New+Things&center=true&width=380&height=45">
 </p>
 
+<img src="https://raw.githubusercontent.com/dhruvmoradiya69000/dhruvmoradiya69000/main/banner.jpg" alt="Dhruv Moradiya Banner" width="100%">
+
+
 🎓 I'm currently pursuing **BTech in Computer Engineering** at P P Savani University
 
 🌱 I'm currently learning **DevOps tools and Cloud Technologies**

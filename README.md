@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dhruv Moradiya</h1>
 <h3 align="center">A passionate DevOps enthusiast from India</h3>
 

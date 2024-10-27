@@ -41,5 +41,3 @@
 </p>
 
 ---
-
-⭐️ From [dhruvmoradiya69000](https://github.com/dhruvmoradiya69000)

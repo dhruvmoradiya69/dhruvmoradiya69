@@ -28,16 +28,16 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvmoradiya69000&show_icons=true&locale=en&theme=radical" alt="dhruvmoradiya69" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvmoradiya69&show_icons=true&locale=en&theme=radical" alt="dhruvmoradiya69" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmoradiya69000&theme=radical" alt="dhruvmoradiya69" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvmoradiya69&theme=radical" alt="dhruvmoradiya69" />
 </p>
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/dhruv-moradiya69000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhruv-moradiya69/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
 </p>
 
 ---

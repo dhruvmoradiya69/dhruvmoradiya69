@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=DevOps+Enthusiast;Cloud+Computing+Student;Always+Learning+New+Things&center=true&width=380&height=45">
 </p>
 
-<img src="https://github.com/dhruvmoradiya69000/dhruvmoradiya69000/blob/main/LinkedIn%20Banner.png" alt="Dhruv Moradiya Banner" width="100%">
+<img src="https://github.com/dhruvmoradiya69/dhruvmoradiya69/blob/main/LinkedIn%20Banner.png" alt="Dhruv Moradiya Banner" width="100%">
 
 
 🎓 I'm currently pursuing **BTech in Computer Engineering** at P P Savani University
@@ -23,6 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </p>
 
 ### 📊 GitHub Stats:

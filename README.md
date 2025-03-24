@@ -28,7 +28,7 @@
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/argoproj/argoproj-icon.svg" alt="argocd" width="40" height="40"/>
+  <img src="https://techicons.dev/icons/argocd.svg" alt="argocd" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
 </p>
 
